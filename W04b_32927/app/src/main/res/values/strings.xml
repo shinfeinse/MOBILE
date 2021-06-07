@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">W04b_32927</string>
+    <string name="nama">Nama</string>
+    <string name="halaman_2">Halaman 2</string>
+    <string name="halaman_1">Halaman 1</string>
+    <string name="tulisan">Tulisan</string>
+    <string name="ganti_tulisan">Ganti Tulisan</string>
+    <string name="initial_text_view">Initial Text View</string>
+</resources>
